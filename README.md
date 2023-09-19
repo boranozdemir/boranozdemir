@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F703898616732842781%2F&psig=AOvVaw1V_CtiM7ehFUDc8OpQF0-F&ust=1695235352305000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjR1Pmpt4EDFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneocody.medium.com%2Fwhat-mr-robot-can-teach-you-about-the-five-hour-rule-388b11f75707&psig=AOvVaw1V_CtiM7ehFUDc8OpQF0-F&ust=1695235352305000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjR1Pmpt4EDFQAAAAAdAAAAABAQ)
 
 <h1 align="center">Hi 👋, I'm Boran</h1>
 <h3 align="center">Machine Learning & Python Developer</h3>
