@@ -1,4 +1,4 @@
-[![MasterHead](https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/ed289b54-6dc8-475c-a15c-3697f9cb4702.jpg)
+[![MasterHead](https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/44620c0a-f3c9-413a-8ba1-a57a26b65199.jpg)
 
 <h1 align="center">Hi 👋, I'm Boran</h1>
 <h3 align="center">Machine Learning & Python Developer</h3>
