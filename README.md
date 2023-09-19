@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="400" src="[https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/44620c0a-f3c9-413a-8ba1-a57a26b65199.jpg](https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/1abbab3e-9459-4f97-8c72-33a13683b864.jpg)" alt="Material Bread logo">
+    <img width="400" src="https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/44620c0a-f3c9-413a-8ba1-a57a26b65199.jpg](https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/1abbab3e-9459-4f97-8c72-33a13683b864.jpg" alt="Material Bread logo">
 </p>
 <h1 align="center">Hi 👋, I'm Boran</h1>
 <h3 align="center">Machine Learning & Python Developer</h3>
