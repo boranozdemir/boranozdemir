@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boranozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="boranozdemir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boranozdemir" alt="boranozdemir" /></a> </p>
 
 - 🔭 I’m currently working on [Spotify Danceability Prediction Project](https://github.com/boranozdemir/Spotify-Danceability-Prediction)
 
