@@ -3,7 +3,7 @@
     <img width="400" src="https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/1abbab3e-9459-4f97-8c72-33a13683b864.jpg" alt="Material Bread logo">
 </p>
 <h1 align="center">Hi 👋, I'm Boran</h1>
-<h3 align="center">Machine Learning & Python Developer</h3>
+<h3 align="center">Computer Science MSc Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boranozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="boranozdemir" /> </p>
 
