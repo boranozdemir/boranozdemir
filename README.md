@@ -8,19 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boranozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="boranozdemir" /> </p>
 
 
-- 🔭 I’m currently working on [Spotify Danceability Prediction Project](https://github.com/boranozdemir/Spotify-Danceability-Prediction)
-
-- 🌱 I’m currently learning **CNN & Time Series**
-
-- 👯 I’m looking to collaborate on [Spotify Danceability Prediction Project](https://github.com/boranozdemir/Spotify-Danceability-Prediction)
-
-- 🤝 I’m looking for help with [Depression Detect Project(forked)](https://github.com/boranozdemir/depression-detect)
-
-- 👨‍💻 All of my projects are available at [https://github.com/boranozdemir](https://github.com/boranozdemir)
-
 - 💬 Ask me about **Data Science, ML, Database Systems**
 
-- 📫 How to reach me **mr.boranozdemir@gmail.com**
 
 - ⚡ Fun fact **Since I'm a Data Science Nerd do not hesitate for project collaboration.**
 
